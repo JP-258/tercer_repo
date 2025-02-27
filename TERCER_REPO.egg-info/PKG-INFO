@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: TERCER_REPO
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/JP-258/git-github
+Author: Jean Arias
+Author-email: amin@platzi.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
